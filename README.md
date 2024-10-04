@@ -64,4 +64,34 @@ from : https://www.javatpoint.com/java-stack
 
 ## Instructions to Run the Code
 
-1. **Clone the repository:**
+### 1. Clone the Repository:
+   - Clone the GitHub repository to your local machine using the following command:
+   
+     ```bash
+     git clone https://github.com/Tseringkhando/DataStructures-Assignment1-TseringLama.git
+     ```
+   - Navigate into the repository directory:
+   
+     ```bash
+     cd DataStructures-Assignment1-TseringLama
+     ```
+
+### 2. Compile the Java Files:
+   - Ensure that you have the Java Development Kit (JDK) installed on your machine.
+   - Compile all the `.java` files in the repository using the following command:
+   
+     ```bash
+     javac *.java
+     ```
+
+### 3. Run the `Main` Class:
+   - After compilation, run the `Main` class to execute the code for all challenges:
+   
+     ```bash
+     java Main
+     ```
+
+### 4. Expected Output:
+   - The program will run the test cases for each challenge, performing operations like adding, removing, searching, and traversing the data structures.
+   - Output:
+   - ![image](https://github.com/user-attachments/assets/bbe96939-e5e8-4fc7-b27e-02c458738e8f)
